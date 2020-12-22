@@ -1,12 +1,6 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# 豆瓣影音
-
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
-
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
-
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
-[Get Started](#quick-start)
+# My mp.js.org
+> 后退！我要装逼了！
+[一个沙雕的项目,点这里访问我的GitHub](github.com/cncdn)
+[点这里访问GitHUb项目地址](https://github.com/cncdn)
