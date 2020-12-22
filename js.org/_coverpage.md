@@ -1,6 +1,9 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://cncdn.github.io/js.org/img/icon.svg)
 
-# My mp.js.org
-> 后退！我要装逼了！
-[一个沙雕的项目,点这里访问我的GitHub](github.com/cncdn)
-[点这里访问GitHUb项目地址](https://github.com/cncdn)
+# mp.js.org
+
+> 使用mp.js.org搭建的小型项目.
+
+* 前端框架：vue-cli、vue-router、axios、vuex
+* UI类库：Mint-UI、Vant
+* 后端数据接口：Express、MongoDB
