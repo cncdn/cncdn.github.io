@@ -1,0 +1,1 @@
+https://purge.jsdelivr.net/gh/cncdn/项目目录@master/目录
