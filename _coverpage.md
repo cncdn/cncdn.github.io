@@ -1,9 +1,10 @@
-![logo](https://cncdn.github.io/js.org/img/icon.svg)
+![logo](https://mp.js.org/img/icon.svg)
 
-# mp.js.org
+# SyArt
 
-> 使用mp.js.org搭建的小型项目.
+> 自定义微信分享链接封面<br/>
+> 微信营销爆文无限返回防封
 
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
+* 实现微信中链接转发或分享朋友圈时，可显示自定义封面图片和文字.
+* 把一条普通的分享链接经过技术处理，生成一张卡片，卡片封面包含标题、简介、和小图片，用户点击卡片即会跳转相应的网页.
+* 图文链接更美观，内容曝光率更高，吸引力度更大，目标用户更精准。商家可以通过对标题、内容和小图片的编辑，易于宣传.
